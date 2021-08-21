@@ -1,3 +1,3 @@
 # Test
 
-Nu stiu ce fac si ma plictisesc.
+Nu stiu ce fac si ma plictisesc!
